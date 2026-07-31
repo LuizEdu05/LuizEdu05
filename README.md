@@ -1,13 +1,13 @@
 <div align="center">
 
-# Olá, eu sou o Luiz Oliveira 👋
-
-### Desenvolvedor Full Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Luiz%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descAlignY=55&descSize=20" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Next.js+%7C+Java+%7C+JavaScript+%7C+C%23;Construindo+interfaces+e+APIs+robustas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-oliveiraa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizEdu05)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LuizEdu05&color=2E9EF7&style=for-the-badge&label=PERFIS+VISUALIZADOS)
 
 </div>
 
@@ -28,16 +28,7 @@ Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,java,cs,html,css,firebase,vercel,git&theme=dark" />
 
 </div>
 
@@ -90,6 +81,26 @@ Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e
 
 ---
 
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuizEdu05&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LuizEdu05/LuizEdu05/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 Vamos conversar?
@@ -97,3 +108,5 @@ Desenvolvedor Full Stack focado em criar aplicações modernas, performáticas e
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se%20no%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-oliveiraa/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=100&section=footer" width="100%" alt="Footer" />
